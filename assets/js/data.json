@@ -1,1 +1,28 @@
-{"community":[{"id":1,"title":"UOB Painting of the Year 2022","paragraph":"UOB Indonesia memberikan penghargaan UOB Painting of the Year (Indonesia) 2022 kepada Bapak Farhan Siki, seorang berusia 51 tahun dari Yogyakarta, Daerah Istimewa Yogyakarta, untuk lukisannya yang berjudul 'Build, Destroy, Rebuild (The Modern Sisyphus)'","image":"./communities/sustainable-procurement/Community-1.jpg"},{"id":2,"title":"2022 UOB Global Heartbeat","paragraph":"UOB Heartbeat Run/Walk merupakan kegiatan sukarela dan penggalangan dana tahunan yang diselenggarakan oleh UOB secara global di 18 negara, termasuk di kawasan ASEAN. Tahun ini, lebih dari 2.500 rekan-rekan UOB berpartisipasi dalam acara tatap muka pertama pasca pandemi ini, dan berhasil mengumpulkan donasi untuk 175 anak dari Yayasan Mari Berbagi Seni.","image":"./communities/sustainable-procurement/Community-2.jpg"},{"id":3,"title":"Children Art Space Kembara Biru","paragraph":"Kembara Biru (Traveling Blues) mengadakan lokakarya untuk anak-anak, menggunakan kertas karbon sebagai bahan artistik utamanya, dengan benda-benda kecil sehari-hari seperti kancing dan perban. Kami menyediakan bahan dan alat yang memungkinkan mereka untuk mengambil bagian dalam serangkaian lokakarya online untuk sebelas sekolah (323 anak) dari lima provinsi.","image":"./communities/sustainable-procurement/Community-3.jpg"},{"id":4,"title":"Art Jakarta","paragraph":"UOB Indonesia mengumumkan kolaborasinya dengan Art Jakarta 2022, yang merupakan bagian dari upaya kami dalam memajukan seni di Asia Tenggara dan sebagai wujud komitmen UOB Indonesia untuk menghubungkan masyarakat melalui seni.","image":"./communities/sustainable-procurement/Community-4.jpg"}]}
+{
+  "community": [
+    {
+      "id": 1,
+      "title": "UOB Painting of the Year 2022",
+      "paragraph": "UOB Indonesia memberikan penghargaan UOB Painting of the Year (Indonesia) 2022 kepada Bapak Farhan Siki, seorang berusia 51 tahun dari Yogyakarta, Daerah Istimewa Yogyakarta, untuk lukisannya yang berjudul 'Build, Destroy, Rebuild (The Modern Sisyphus)'",
+      "image": "./communities/sustainable-procurement/Community-1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "2022 UOB Global Heartbeat",
+      "paragraph": "UOB Heartbeat Run/Walk merupakan kegiatan sukarela dan penggalangan dana tahunan yang diselenggarakan oleh UOB secara global di 18 negara, termasuk di kawasan ASEAN. Tahun ini, lebih dari 2.500 rekan-rekan UOB berpartisipasi dalam acara tatap muka pertama pasca pandemi ini, dan berhasil mengumpulkan donasi untuk 175 anak dari Yayasan Mari Berbagi Seni.",
+      "image": "./communities/sustainable-procurement/Community-2.jpg"
+    },  
+    {
+      "id": 3,
+      "title": "Children Art Space Kembara Biru",
+      "paragraph": "Kembara Biru (Traveling Blues) mengadakan lokakarya untuk anak-anak, menggunakan kertas karbon sebagai bahan artistik utamanya, dengan benda-benda kecil sehari-hari seperti kancing dan perban. Kami menyediakan bahan dan alat yang memungkinkan mereka untuk mengambil bagian dalam serangkaian lokakarya online untuk sebelas sekolah (323 anak) dari lima provinsi.",
+      "image": "./communities/sustainable-procurement/Community-3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Art Jakarta",
+      "paragraph": "UOB Indonesia mengumumkan kolaborasinya dengan Art Jakarta 2022, yang merupakan bagian dari upaya kami dalam memajukan seni di Asia Tenggara dan sebagai wujud komitmen UOB Indonesia untuk menghubungkan masyarakat melalui seni.",
+      "image": "./communities/sustainable-procurement/Community-4.jpg"
+    }
+  ]
+}

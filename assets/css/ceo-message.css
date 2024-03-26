@@ -1,0 +1,198 @@
+#iw_comp_enhancedceomessage .sure-blue-72 {
+  color: #005eb8;
+}
+
+#iw_comp_enhancedceomessage .title-description {
+  font-size: 20px;
+  line-height: 1.5;
+  font-weight: initial;
+}
+
+@media (min-width: 1800px) {
+  #iw_comp_enhancedceomessage .title-description {
+    font-size: 24px;
+    line-height: 1.67;
+  }
+}
+
+#iw_comp_enhancedceomessage .bg-sure-blue-72 {
+  background-color: #005eb8;
+}
+
+#iw_comp_enhancedceomessage .left-side-card {
+  height: max-content;
+  /*max-width: 588px;*/
+  padding: 50px 30px;
+}
+
+#iw_comp_enhancedceomessage .right-side-card {
+  max-width: 545px;
+  max-height: 475px;
+}
+
+#iw_comp_enhancedceomessage .bg-grey-10 {
+  background-color: #f5f5f5;
+}
+
+#iw_comp_enhancedceomessage .bg-white.left-side-card, #iw_comp_enhancedceomessage .bg-sure-blue-72.left-side-card, #iw_comp_enhancedceomessage .bg-grey-10.left-side-card {
+  filter: drop-shadow(5px 5px 10px rgba(33,33,33,0.15));
+}
+
+#iw_comp_enhancedceomessage .bg-white.left-side-card::before {
+  content: '';
+  background: url("../../assets/img/index/quotation-white.svg");
+  height: 51px;
+  width: 58px;
+  position: absolute;
+  top: 28px;
+}
+
+#iw_comp_enhancedceomessage .bg-sure-blue-72.left-side-card::before {
+  content: '';
+  background: url("../../assets/img/index/quotation-blue.svg");
+  height: 51px;
+  width: 58px;
+  position: absolute;
+  top: 28px;
+}
+
+#iw_comp_enhancedceomessage .bg-grey-10.left-side-card::before {
+  content: '';
+  background: url("quotation-grey.svg");
+  height: 51px;
+  width: 58px;
+  position: absolute;
+  top: 28px;
+}
+
+#iw_comp_enhancedceomessage .vertical-red-line {
+  height: 42px;
+  width: 2px;
+  background-color: #FB002C;
+  border-radius: 50px;
+}
+
+#iw_comp_enhancedceomessage .left-side-card h4 {
+  position: relative;
+}
+
+#iw_comp_enhancedceomessage .left-side-card img {
+  object-fit: cover;
+}
+
+#iw_comp_enhancedceomessage .ceo {
+  font-size: 12px;
+  line-height: 18px;
+  font-weight: 400;
+}
+
+@media (min-width: 1800px) {
+  #iw_comp_enhancedceomessage .ceo {
+    font-size: 14px;
+  }
+}
+
+#iw_comp_enhancedceomessage .ceo b {
+  font-size: 14px;
+  line-height: 24px;
+  font-weight: 700;
+}
+
+@media (min-width: 1800px) {
+  #iw_comp_enhancedceomessage .ceo b {
+    font-size: 16px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  #iw_comp_enhancedceomessage .bg-white.left-side-card, #iw_comp_enhancedceomessage .bg-sure-blue-72.left-side-card #iw_comp_enhancedceomessage .bg-grey-10.left-side-card {
+    filter: drop-shadow(5px 5px 10px rgba(33,33,33,0.15));
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  #iw_comp_enhancedceomessage .mobile-reverse {
+    flex-direction: column-reverse;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  #iw_comp_enhancedceomessage .right-side-card img {
+    border-bottom-right-radius: 0 !important;
+    border-bottom-left-radius: 0 !important;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  #iw_comp_enhancedceomessage .left-side-card {
+    height: max-content;
+    max-width: 588px;
+    padding: 32px 24px 32px 24px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  #iw_comp_enhancedceomessage .bg-white.left-side-card::before {
+    content: '';
+    background: url("../assets/quotation-white.svg");
+    height: 40px;
+    width: 46px;
+    position: absolute;
+    top: 16px;
+    background-size: contain;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  #iw_comp_enhancedceomessage .bg-sure-blue-72.left-side-card::before {
+    content: '';
+    background: url("../../assets/img/index/quotation-blue.svg");
+    height: 40px;
+    width: 46px;
+    position: absolute;
+    top: 16px;
+    background-size: contain;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  #iw_comp_enhancedceomessage .bg-grey-10.left-side-card::before {
+    content: '';
+    background: url("quotation-grey.svg");
+    height: 40px;
+    width: 46px;
+    position: absolute;
+    top: 16px;
+    background-size: contain;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  #iw_comp_enhancedceomessage .uob-h4 {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 1.5;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  #iw_comp_enhancedceomessage .uob-h4.title {
+    margin-bottom: 24px !important;
+  }
+}
+
+@media only screen and (min-width: 1401px) {
+  #iw_comp_enhancedceomessage .left-side-card {
+    max-height: 100%;
+    max-width: 688px;
+    padding: 50px 50px;
+  }
+}
+
+@media only screen and (min-width: 1401px) {
+  #iw_comp_enhancedceomessage .right-side-card {
+    max-width: 50%;
+    max-height: 100%;
+  }
+}
+

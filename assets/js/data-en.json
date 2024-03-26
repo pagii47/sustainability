@@ -1,1 +1,28 @@
-{"community":[{"id":1,"title":"UOB Painting of the Year 2022","paragraph":"UOB Indonesia awarded the 2022 UOB Painting of the Year (Indonesia) to Mr. Farhan Siki, a 51-year-old artist from Yogyakarta, Special Region of Yogyakarta, for his painting titled 'Build, Destroy, Rebuild (The Modern Sisyphus)'","image":"./communities/sustainable-procurement/Community-1.jpg"},{"id":2,"title":"2022 UOB Global Heartbeat","paragraph":"The UOB Heartbeat Run/Walk is an annual flagship volunteering and fundraising event held by UOB globally across 18 markets including the ASEAN region. This year, more than 2,500 UOBI colleagues participated in this first face-to-face event post-pandemic, and successfully raised the donation for 175 children from Mari Berbagi Seni Foundation.","image":"./communities/sustainable-procurement/Community-2.jpg"},{"id":3,"title":"Children Art Space Kembara Biru","paragraph":"Kembara Biru (Traveling Blues) organised a workshop for children, using carbon paper as her main artistic material along with everyday small objects like buttons and bandages. We provided materials and tools that enabled them to take part in a series of online workshops for 11 schools (323 children) from five provinces.","image":"./communities/sustainable-procurement/Community-3.jpg"},{"id":4,"title":"Art Jakarta","paragraph":"UOB Indonesia announced its collaboration with Art Jakarta 2022 as a part of our effort to champion art in Southeast Asia and to showcase its commitment to connecting communities through art.","image":"./communities/sustainable-procurement/Community-4.jpg"}]}
+{
+  "community": [
+    {
+      "id": 1,
+      "title": "UOB Painting of the Year 2022",
+      "paragraph": "UOB Indonesia awarded the 2022 UOB Painting of the Year (Indonesia) to Mr. Farhan Siki, a 51-year-old artist from Yogyakarta, Special Region of Yogyakarta, for his painting titled 'Build, Destroy, Rebuild (The Modern Sisyphus)'",
+      "image": "./communities/sustainable-procurement/Community-1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "2022 UOB Global Heartbeat",
+      "paragraph": "The UOB Heartbeat Run/Walk is an annual flagship volunteering and fundraising event held by UOB globally across 18 markets including the ASEAN region. This year, more than 2,500 UOBI colleagues participated in this first face-to-face event post-pandemic, and successfully raised the donation for 175 children from Mari Berbagi Seni Foundation.",
+      "image": "./communities/sustainable-procurement/Community-2.jpg"
+    },  
+    {
+      "id": 3,
+      "title": "Children Art Space Kembara Biru",
+      "paragraph": "Kembara Biru (Traveling Blues) organised a workshop for children, using carbon paper as her main artistic material along with everyday small objects like buttons and bandages. We provided materials and tools that enabled them to take part in a series of online workshops for 11 schools (323 children) from five provinces.",
+      "image": "./communities/sustainable-procurement/Community-3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Art Jakarta",
+      "paragraph": "UOB Indonesia announced its collaboration with Art Jakarta 2022 as a part of our effort to champion art in Southeast Asia and to showcase its commitment to connecting communities through art.",
+      "image": "./communities/sustainable-procurement/Community-4.jpg"
+    }
+  ]
+}
